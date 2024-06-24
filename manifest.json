@@ -3,7 +3,7 @@
   "background_color": "#a28f7d",
   "display": "fullscreen",
   "scope": "/template-pwa",
-  "start_url": "template-pwa-tau.vercel.app/",
+  "start_url": "/",
   "name": "pwa-video",
   "short_name": "pwaVIDEO",
   "icons": [
